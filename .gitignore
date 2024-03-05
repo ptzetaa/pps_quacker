@@ -1,0 +1,19 @@
+#gitignore generico
+# Archivos de sistema
+*.pyc
+__pycache__/
+
+# Entorno virtual
+.venv/
+
+# Archivos de configuración
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Logs y archivos temporales
+*.log
+*.swp
+.DS_Store
